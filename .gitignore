@@ -1,0 +1,7 @@
+.gitignore
+.idea/
+lib/
+src/main/resources/
+src/main/webapp/
+target/
+teamup-backend.iml
